@@ -1,0 +1,8 @@
+.dummy-header { padding-top: 80px; }
+#recommended_interests { height: 500px; width: 100%; }
+
+/**
+ * Charts
+ */
+
+.pieLabel { font-size: 80% }
