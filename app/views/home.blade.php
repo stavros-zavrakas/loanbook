@@ -13,6 +13,7 @@
     <link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.datatables.net/plug-ins/9dcbecd42ad/integration/bootstrap/3/dataTables.bootstrap.css">
 
     <!-- Custom styles for our template -->
     <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen" >
@@ -57,8 +58,9 @@
       	<div class="col-md-12 col-sm-12 highlight">
 	    		<h1>Your suggested portfolio</h1>
           <p class="text-muted">Give a short explanation of the portfolio</p>
+          @include('includes.your_portfolio')
           <h2>Recommended interests</h2>
-  				<p class="text-muted">Give a short explanation of the recommended interests</p>
+          <p class="text-muted">Give a short explanation of the recommended interests</p>
           <div id="recommended_interests"></div>
 	    	</div>
     	</div>
@@ -197,6 +199,8 @@
     <script src="assets/js/template.js"></script>
     <script src="assets/flot/jquery.flot.js"></script>
     <script src="assets/flot/jquery.flot.pie.js"></script>
+    <script src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.datatables.net/plug-ins/9dcbecd42ad/integration/bootstrap/3/dataTables.bootstrap.js"></script>
     <script>
 
       var data = [
@@ -241,6 +245,9 @@
                 show: false
             }
         });
+
+        $('#your_portfolio').dataTable();
+
       });
 
     function labelFormatter(label, series) {
