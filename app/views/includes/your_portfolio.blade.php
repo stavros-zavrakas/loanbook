@@ -79,7 +79,7 @@
             <td>Unruly</td>
             <td>12.1%</td>
             <td><div class="square green"></div></td>
-            <td>31st Nov 2014</td>
+            <td>30th Nov 2014</td>
         </tr>
         <!--
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
