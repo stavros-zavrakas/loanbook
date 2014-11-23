@@ -4,9 +4,9 @@
         <tr data-toggle="tooltip">
             <th>#</th>
             <th>Company</th>
-            <th>Risk</th>
             <th>Interest Rate</th>
-            <th>#</th>
+            <th>Risk</th>
+            <th>Closing Date</th>
         </tr>
     </thead>
 
@@ -14,71 +14,71 @@
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/aihit.jpeg' width='150'/></td>
             <td>AiHit</td>
-            <td>10%</td>
-            <td></td>
+            <td>12.3%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/cambridge_broadband_networks.jpeg' width='150'/></td>
             <td>Cambridge Broadband Networks</td>
-            <td>10%</td>
-            <td></td>
+            <td>19.2%</td>
+            <td><div class="square red"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/celltick.jpg' width='150'/></td>
             <td>Celltick</td>
-            <td>10%</td>
-            <td></td>
+            <td>13.5%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/clicktale.jpeg' width='150'/></td>
             <td>ClickTale</td>
-            <td>10%</td>
-            <td></td>
+            <td>7.1%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/greenroad.jpg' width='150'/></td>
             <td>Greenroad</td>
-            <td>10%</td>
-            <td></td>
+            <td>7.8%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/linkdex.jpg' width='150'/></td>
             <td>Linkdex</td>
-            <td>10%</td>
-            <td></td>
+            <td>18.9%</td>
+            <td><div class="square red"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/nujira.jpg' width='150'/></td>
             <td>Nujira</td>
-            <td>10%</td>
-            <td></td>
+            <td>15.3%</td>
+            <td><div class="square red"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/open_bravo.png' width='150'/></td>
             <td>OpenBravo</td>
-            <td>10%</td>
-            <td></td>
+            <td>17.7%</td>
+            <td><div class="square red"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/teraview.jpg' width='150'/></td>
             <td>Tera View</td>
-            <td>10%</td>
-            <td></td>
+            <td>13.9%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/unruly.jpg' width='150'/></td>
             <td>Unruly</td>
-            <td>10%</td>
-            <td></td>
+            <td>12.1%</td>
+            <td><div class="square green"></div></td>
             <td></td>
         </tr>
         <!--

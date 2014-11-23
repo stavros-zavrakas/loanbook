@@ -1,5 +1,7 @@
 .dummy-header { padding-top: 100px; }
-.navbar { background-color: #3D2683; }
+/*
+.navbar { background-color: #3D2683; opacity: 0.8; }
+*/
 .navbar-nav > li > a { color: #fff !important; }
 .navbar-nav > li > a:hover { color: #aaa !important; }
 .home-container { min-height: 550px; }
@@ -7,6 +9,9 @@
 #your_portfolio { width: 100%; }
 .tooltip-inner { max-width: 350px; width: 350px; }
 img.profile_picture { width: 38px; margin-top: -7px; }
+.square { width: 50px; height: 30px; }
+.green { background: green; }
+.red { background: red; }
 /**
  * Charts
  */

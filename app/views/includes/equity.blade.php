@@ -5,8 +5,9 @@
             <th>#</th>
             <th>Company</th>
             <th>Risk</th>
-            <th>Interest Rate</th>
-            <th>#</th>
+            <th>Funding target</th>
+            <th>Number of shares</th>
+            <!-- <th>Price per share</th> -->
         </tr>
     </thead>
 
