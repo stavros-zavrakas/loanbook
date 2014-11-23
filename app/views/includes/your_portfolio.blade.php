@@ -11,70 +11,70 @@
     </thead>
 
     <tbody>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/aihit.jpeg' width='150'/></td>
             <td>AiHit</td>
             <td>12.3%</td>
             <td><div class="square orange"></div></td>
             <td>12th Dec 2014</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/cambridge_broadband_networks.jpeg' width='150'/></td>
             <td>Cambridge Broadband Networks</td>
             <td>19.2%</td>
             <td><div class="square red"></div></td>
             <td>25th Nov 2014</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/celltick.jpg' width='150'/></td>
             <td>Celltick</td>
             <td>13.5%</td>
             <td><div class="square orange"></div></td>
             <td>6th Jan 2015</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/clicktale.jpeg' width='150'/></td>
             <td>ClickTale</td>
             <td>7.1%</td>
             <td><div class="square green"></div></td>
             <td>24th Dec 2014</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/greenroad.jpg' width='150'/></td>
             <td>Greenroad</td>
             <td>7.8%</td>
             <td><div class="square green"></div></td>
             <td>14th Feb 2015</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/linkdex.jpg' width='150'/></td>
             <td>Linkdex</td>
             <td>18.9%</td>
             <td><div class="square red"></div></td>
             <td>31st Jan 2015</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/nujira.jpg' width='150'/></td>
             <td>Nujira</td>
             <td>15.3%</td>
             <td><div class="square red"></div></td>
             <td>19th Dec 2014</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/open_bravo.png' width='150'/></td>
             <td>OpenBravo</td>
             <td>7.7%</td>
             <td><div class="square green"></div></td>
             <td>22nd Dec 2014</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/teraview.jpg' width='150'/></td>
             <td>Tera View</td>
             <td>13.9%</td>
             <td><div class="square orange"></div></td>
             <td>8th Apr 2015</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/unruly.jpg' width='150'/></td>
             <td>Unruly</td>
             <td>12.1%</td>
@@ -82,14 +82,14 @@
             <td>30th Nov 2014</td>
         </tr>
         <!--
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Jena</td>
             <td>Gaines</td>
             <td>Office Manager</td>
             <td>London</td>
             <td>$90,560</td>
         </tr>
-        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
+        <tr data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Quinn</td>
             <td>Flynn</td>
             <td>Support Lead</td>
