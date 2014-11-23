@@ -19,6 +19,7 @@ class HomeController extends BaseController {
 		// $data = $this->initPageData();
 		// return Response::view('index', $data);
 		$user = Session::get('user');
+		// dd($user);
 		if($user) {
 			return Response::view('home');
 		} else {

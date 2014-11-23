@@ -43,6 +43,7 @@
                     <li><a href="{{ URL::action('HomeController@index') }}">Contact</a></li>
                     @if(Session::get('user'))
                     <li><a class="btn" href="{{ URL::action('AuthController@logout') }}">LOGOUT</a></li>
+                    <li><a href="#"><img class="profile_picture" src="https://graph.facebook.com/{{Session::get('user')->id}}/picture"/></a></li>
                     @else
                     <li><a class="btn" href="{{ URL::action('SocialController@facebook') }}">SIGN IN</a></li>
                     @endif
