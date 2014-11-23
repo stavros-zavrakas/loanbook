@@ -1,4 +1,7 @@
 .dummy-header { padding-top: 100px; }
+.navbar { background-color: #3D2683; }
+.navbar-nav > li > a { color: #fff !important; }
+.navbar-nav > li > a:hover { color: #aaa !important; }
 .home-container { min-height: 550px; }
 #recommended_interests { height: 500px; width: 100%; }
 #your_portfolio { width: 100%; }

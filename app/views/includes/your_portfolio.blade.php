@@ -5,8 +5,8 @@
             <th>#</th>
             <th>Company</th>
             <th>Risk</th>
-            <th>Office</th>
-            <th>Salary</th>
+            <th>Interest Rate</th>
+            <th>#</th>
         </tr>
     </thead>
 
@@ -14,72 +14,72 @@
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/aihit.jpeg' width='150'/></td>
             <td>AiHit</td>
-            <td>System Architect</td>
-            <td>Edinburgh</td>
-            <td>$320,800</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/cambridge_broadband_networks.jpeg' width='150'/></td>
             <td>Cambridge Broadband Networks</td>
-            <td>Accountant</td>
-            <td>Tokyo</td>
-            <td>$170,750</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/celltick.jpg' width='150'/></td>
             <td>Celltick</td>
-            <td>Junior Technical Author</td>
-            <td>San Francisco</td>
-            <td>$86,000</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/clicktale.jpeg' width='150'/></td>
             <td>ClickTale</td>
-            <td>Senior Javascript Developer</td>
-            <td>Edinburgh</td>
-            <td>$433,060</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/greenroad.jpg' width='150'/></td>
             <td>Greenroad</td>
-            <td>Accountant</td>
-            <td>Tokyo</td>
-            <td>$162,700</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/linkdex.jpg' width='150'/></td>
             <td>Linkdex</td>
-            <td>Integration Specialist</td>
-            <td>New York</td>
-            <td>$372,000</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/nujira.jpg' width='150'/></td>
             <td>Nujira</td>
-            <td>Sales Assistant</td>
-            <td>San Francisco</td>
-            <td>$137,500</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/open_bravo.png' width='150'/></td>
             <td>OpenBravo</td>
-            <td>Integration Specialist</td>
-            <td>Tokyo</td>
-            <td>$327,900</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/teraview.jpg' width='150'/></td>
             <td>Tera View</td>
-            <td>Javascript Developer</td>
-            <td>San Francisco</td>
-            <td>$205,500</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td><img src='assets/static_images/unruly.jpg' width='150'/></td>
             <td>Unruly</td>
-            <td>Software Engineer</td>
-            <td>Edinburgh</td>
-            <td>$103,600</td>
+            <td>10%</td>
+            <td></td>
+            <td></td>
         </tr>
         <!--
         <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
