@@ -24,6 +24,7 @@ $(document).ready(function(){
   // });
 
   $('#your_portfolio').dataTable();
+  $('#table_equity').dataTable();
 
   $('[data-toggle="tooltip"]').tooltip({
     html: true

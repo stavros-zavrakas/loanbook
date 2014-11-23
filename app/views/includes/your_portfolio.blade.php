@@ -1,3 +1,4 @@
+<br>
 <table id="your_portfolio" class="display" cellspacing="0" width="100%">
     <thead>
         <tr data-toggle="tooltip">
