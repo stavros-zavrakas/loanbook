@@ -22,10 +22,9 @@
     <!-- Intro -->
     <div class="container text-center">
         <br> <br>
-        <h2 class="thin">The best place to tell people why they are here</h2>
+        <h2 class="thin">A personalised direct investment network</h2>
         <p class="text-muted">
-            The difference between involvement and commitment is like an eggs-and-ham breakfast:<br> 
-            the chicken was involved; the pig was committed.
+            Enables people to support business in their community.
         </p>
     </div>
     <!-- /Intro-->
@@ -34,31 +33,27 @@
     <div class="jumbotron top-space">
         <div class="container">
             
-            <h3 class="text-center thin">Reasons to use this template</h3>
+            <h3 class="text-center thin">Reasons to use this Social Invest!</h3>
             
             <div class="row">
-                <div class="col-md-3 col-sm-6 highlight">
-                    <div class="h-caption"><h4><i class="fa fa-cogs fa-5"></i>Bootstrap-powered</h4></div>
+                <div class="col-md-4 col-sm-6 highlight">
+                    <div class="h-caption"><h4><i class="fa fa-smile-o fa-5"></i>Community</h4></div>
                     <div class="h-body text-center">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
+                        <p>
+                            You have a connection to your investment and your fellow incestors and allows you to expand these relationships.
+                        </p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 highlight">
-                    <div class="h-caption"><h4><i class="fa fa-flash fa-5"></i>Fat-free</h4></div>
+                <div class="col-md-4 col-sm-6 highlight">
+                    <div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Personalized</h4></div>
                     <div class="h-body text-center">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, commodi, sequi quis ad fugit omnis cumque a libero error nesciunt molestiae repellat quos perferendis numquam quibusdam rerum repellendus laboriosam reprehenderit! </p>
+                        <p>We match you with opportunities based on your unique interests, behaviours preferences and social networks.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 highlight">
-                    <div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Creative Commons</h4></div>
+                <div class="col-md-4 col-sm-6 highlight">
+                    <div class="h-caption"><h4><i class="fa fa-cogs fa-5"></i>Technology</h4></div>
                     <div class="h-body text-center">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, vitae, perferendis, perspiciatis nobis voluptate quod illum soluta minima ipsam ratione quia numquam eveniet eum reprehenderit dolorem dicta nesciunt corporis?</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 highlight">
-                    <div class="h-caption"><h4><i class="fa fa-smile-o fa-5"></i>Author's support</h4></div>
-                    <div class="h-body text-center">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
+                        <p>Proprietary machine learning Infers interests & preferences from users’ social media.</p>
                     </div>
                 </div>
             </div> <!-- /row  -->
