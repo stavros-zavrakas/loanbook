@@ -7,19 +7,22 @@
 
     <!-- Intro -->
     <div class="container">
-      <div class="row">
-      	<div class="col-md-12 col-sm-12 highlight">
-            <h1>Your suggested portfolio</h1>
-            <p class="text-muted">Give a short explanation of the portfolio</p>
-            @include('includes.your_portfolio')
-            <h2>Recommended interests</h2>
-            <p class="text-muted">Give a short explanation of the recommended interests</p>
-            <div id="recommended_interests"></div>
-        	</div>
-    	</div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 highlight">
+                <h1>Your suggested portfolio</h1>
+                <p class="text-muted">Give a short explanation of the portfolio</p>
+                @include('includes.your_portfolio')
+                <!--
+                <h2>Recommended interests</h2>
+                <p class="text-muted">Give a short explanation of the recommended interests</p>
+                <div id="recommended_interests"></div>
+                -->
+            </div>
+        </div>
     </div>
     <!-- /Intro-->
-        
+
+    
     <!-- Highlights - jumbotron -->
     <div class="jumbotron top-space">
         <div class="container">

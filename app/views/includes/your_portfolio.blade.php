@@ -1,6 +1,6 @@
 <table id="your_portfolio" class="display" cellspacing="0" width="100%">
     <thead>
-        <tr>
+        <tr data-toggle="tooltip">
             <th>First name</th>
             <th>Last name</th>
             <th>Position</th>
@@ -10,84 +10,85 @@
     </thead>
 
     <tbody>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Tiger</td>
             <td>Nixon</td>
             <td>System Architect</td>
             <td>Edinburgh</td>
             <td>$320,800</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Garrett</td>
             <td>Winters</td>
             <td>Accountant</td>
             <td>Tokyo</td>
             <td>$170,750</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Ashton</td>
             <td>Cox</td>
             <td>Junior Technical Author</td>
             <td>San Francisco</td>
             <td>$86,000</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Cedric</td>
             <td>Kelly</td>
             <td>Senior Javascript Developer</td>
             <td>Edinburgh</td>
             <td>$433,060</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Airi</td>
             <td>Satou</td>
             <td>Accountant</td>
             <td>Tokyo</td>
             <td>$162,700</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Brielle</td>
             <td>Williamson</td>
             <td>Integration Specialist</td>
             <td>New York</td>
             <td>$372,000</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Herrod</td>
             <td>Chandler</td>
             <td>Sales Assistant</td>
             <td>San Francisco</td>
             <td>$137,500</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Rhona</td>
             <td>Davidson</td>
             <td>Integration Specialist</td>
             <td>Tokyo</td>
             <td>$327,900</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Colleen</td>
             <td>Hurst</td>
             <td>Javascript Developer</td>
             <td>San Francisco</td>
             <td>$205,500</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Sonya</td>
             <td>Frost</td>
             <td>Software Engineer</td>
             <td>Edinburgh</td>
             <td>$103,600</td>
         </tr>
-        <tr>
+        <!--
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Jena</td>
             <td>Gaines</td>
             <td>Office Manager</td>
             <td>London</td>
             <td>$90,560</td>
         </tr>
-        <tr>
+        <tr data-toggle="tooltip" data-placement="bottom" data-container="body" title="<img src='assets/images/connection.png' alt='Connection'>">
             <td>Quinn</td>
             <td>Flynn</td>
             <td>Support Lead</td>
@@ -409,5 +410,6 @@
             <td>New York</td>
             <td>$112,000</td>
         </tr>
+    -->
     </tbody>
 </table>

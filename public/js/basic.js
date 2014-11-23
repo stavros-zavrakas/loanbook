@@ -7,31 +7,27 @@ $(document).ready(function(){
       { label: "Digital Media", data: 10 }
   ];
 
-  $.plot('#recommended_interests', data, {
-      series: {
-          pie: {
-            innerRadius: 0.4,
-            show: true,
-            // label: {
-            //   show: true,
-            //   radius: 1,
-            //   formatter: labelFormatter,
-            //   background: {
-            //     opacity: 1
-            //   }
-            // },
-          }
-      },
-      grid: {
-        hoverable: true,
-        clickable: true
-      },
-      legend: {
-          show: false
-      }
-  });
+  // $.plot('#recommended_interests', data, {
+  //     series: {
+  //         pie: {
+  //           innerRadius: 0.4,
+  //           show: true,
+  //         }
+  //     },
+  //     grid: {
+  //       hoverable: true,
+  //       clickable: true
+  //     },
+  //     legend: {
+  //         show: false
+  //     }
+  // });
 
   $('#your_portfolio').dataTable();
+
+  $('[data-toggle="tooltip"]').tooltip({
+    html: true
+  });
 
 });
 
