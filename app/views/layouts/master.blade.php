@@ -148,10 +148,8 @@
     <script src="assets/js/headroom.min.js"></script>
     <script src="assets/js/jQuery.headroom.min.js"></script>
     <script src="assets/js/template.js"></script>
-    <script src="assets/flot/jquery.flot.js"></script>
-    <script src="assets/flot/jquery.flot.pie.js"></script>
-    <script src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-    <script src="//cdn.datatables.net/plug-ins/9dcbecd42ad/integration/bootstrap/3/dataTables.bootstrap.js"></script>
-    <script src="js/basic.js"></script>
+
+    @section('jshook')
+    @show
 </body>
 </html>
